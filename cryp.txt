@@ -1,0 +1,61 @@
+1. Bitcoin
+Market Cap 
+$70,929,542,324
+Coin Price $4031.51
+Coin Volume $8,440,622,250
+Percentage change(24h) -0.25%
+2. Ethereum
+Market Cap 
+$14,813,656,284
+Coin Price $140.72
+Coin Volume $3,865,192,398
+Percentage change(24h) -0.94%
+3. XRP
+Market Cap 
+$13,189,315,780
+Coin Price $0.318335
+Coin Volume $569,272,737
+Percentage change(24h) -0.15%
+4. Litecoin
+Market Cap 
+$3,750,532,638
+Coin Price $61.56
+Coin Volume $1,639,869,512
+Percentage change(24h) 0.76%
+5. EOS
+Market Cap 
+$3,436,473,309
+Coin Price $3.79
+Coin Volume $1,221,344,570
+Percentage change(24h) -0.36%
+6. Bitcoin Cash
+Market Cap 
+$2,707,907,250
+Coin Price $153.19
+Coin Volume $407,395,776
+Percentage change(24h) -1.28%
+7. Binance Coin
+Market Cap 
+$2,240,988,440
+Coin Price $15.87
+Coin Volume $129,198,816
+Percentage change(24h) -0.19%
+8. Stellar
+Market Cap 
+$2,094,359,734
+Coin Price $0.108964
+Coin Volume $150,429,541
+Percentage change(24h) 0.09%
+9. Tether
+Market Cap 
+$2,025,356,479
+Coin Price $1.01
+Coin Volume $7,125,491,399
+Percentage change(24h) -0.09%
+10. TRON
+Market Cap 
+$1,549,865,933
+Coin Price $0.023243
+Coin Volume $158,194,973
+Percentage change(24h) -0.32%
+
